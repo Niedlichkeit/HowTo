@@ -3225,7 +3225,8 @@
     "rank_history": {
       "initial": "spieler",
       "12.07.2023": "content",
-      "01.12.2024": "content_plus"
+      "01.12.2024": "content_plus",
+      "12.03.2025": "native_expert"
     }
   },
   {
@@ -3312,7 +3313,8 @@
     ],
     "rank_history": {
       "initial": "expert",
-      "17.12.2023": "supporter"
+      "17.12.2023": "supporter",
+      "12.03.2025": "native_expert"
     }
   },
   {

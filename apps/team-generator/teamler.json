@@ -3073,13 +3073,12 @@
     "name": "Niedlichkeit",
     "uuid": "c5f40157-914c-48a8-a5b9-e95892505905",
     "sex": "male",
-    "responsibilities_main": ["Timolia HowTo"],
-    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "expert",
       "16.02.2023": "supporter",
       "16.10.2023": "native_expert",
-      "12.01.2025": "developer"
+      "12.01.2025": "developer",
+      "08.11.2026": "native_expert"
     }
   },
   {
@@ -3400,13 +3399,11 @@
     "name": "Fedox",
     "uuid": "2c4e5e26-33af-4258-9be0-dd7ccd5c38e8",
     "sex": "male",
-    "responsibilities_main": ["Teamlerauswahl Development"],
-    "responsibilities_secondary": ["Grafikdesign"],
-    "fields": ["Plugin Development", "Web Development"],
     "rank_history": {
       "initial": "spieler",
       "21.03.2025": "developer",
-      "07.09.2025": "developer_plus"
+      "07.09.2025": "developer_plus",
+      "15.11.2026": "native_expert"
     }
   },
   {
